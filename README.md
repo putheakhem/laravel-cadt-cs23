@@ -1,0 +1,1 @@
+- connect MySQL-> Create Dataabase -> create table -> insert 
